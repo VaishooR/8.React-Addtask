@@ -1,0 +1,11 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.list {
+  margin-top: 40px;
+  color: red;
+  padding: 10px;
+  font-size: 25px;
+}
